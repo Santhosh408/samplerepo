@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 pwekpoweewerhergegw
+=======
+my name is 
+>>>>>>> origin/master
